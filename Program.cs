@@ -16,6 +16,9 @@ static void Main(string[] args)
   else if (args[0] == "-msg"){
     ExecuteClient(Int32.Parse(args[1]), args[2]);
   }
+  else {
+    Console.WriteLine("Uso\n Abrir server: -port <puerto>\nEnviar mensaje: -msg <puerto> <mensaje>");
+  }
 }
 
 // ExecuteClient() Method
