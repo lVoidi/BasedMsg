@@ -12,3 +12,4 @@
 /home/void/coding/whatsapp-ripoff/obj/Debug/net8.0/whatsapp-ripoff.pdb
 /home/void/coding/whatsapp-ripoff/obj/Debug/net8.0/whatsapp-ripoff.genruntimeconfig.cache
 /home/void/coding/whatsapp-ripoff/obj/Debug/net8.0/ref/whatsapp-ripoff.dll
+/home/void/coding/whatsapp-ripoff/obj/Debug/net8.0/whatsapp-ripoff.sourcelink.json
