@@ -45,7 +45,7 @@ static void ExecuteClient(int port, string msg)
  
             // We print EndPoint information 
             // that we are connected
-            Console.WriteLine("Socket connected to -> {0} ",
+            Console.WriteLine("| {0} |",
                           sender.RemoteEndPoint.ToString());
  
             // Creation of message that
@@ -62,7 +62,7 @@ static void ExecuteClient(int port, string msg)
             // received, that we'll use to 
             // convert them to string
             int byteRecv = sender.Receive(messageReceived);
-            Console.WriteLine("Message from Server -> {0}", 
+            Console.WriteLine("> {0}", 
                   Encoding.ASCII.GetString(messageReceived, 
                                              0, byteRecv));
  
@@ -122,9 +122,9 @@ public static void ExecuteServer(int port)
 		// to connect to Server
 		listener.Listen(10);
 
+    Console.WriteLine("Servidor de escucha");
 		while (true) {
 			
-			Console.WriteLine("Waiting connection ... ");
 
 			// Suspend while waiting for
 			// incoming connection Using 
@@ -147,8 +147,8 @@ public static void ExecuteServer(int port)
 					break;
 			}
 
-			Console.WriteLine("Text received -> {0} ", data);
-			byte[] message = Encoding.ASCII.GetBytes("Test Server");
+			Console.WriteLine("-> {0} ", data);
+			byte[] message = Encoding.ASCII.GetBytes("Recibido!");
 
 			// Send a message to Client 
 			// using Send() method

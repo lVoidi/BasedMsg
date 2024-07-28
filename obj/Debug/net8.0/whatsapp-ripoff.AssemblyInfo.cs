@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("whatsapp-ripoff")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a57991fdb537499e5192351070d50e8208f9b07b")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+274e73eb2bd4c80d91b9f984a1733cbcefb1dd24")]
 [assembly: System.Reflection.AssemblyProductAttribute("whatsapp-ripoff")]
 [assembly: System.Reflection.AssemblyTitleAttribute("whatsapp-ripoff")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
