@@ -1,0 +1,14 @@
+/home/void/coding/whatsapp-ripoff/bin/Debug/net8.0/whatsapp-ripoff
+/home/void/coding/whatsapp-ripoff/bin/Debug/net8.0/whatsapp-ripoff.deps.json
+/home/void/coding/whatsapp-ripoff/bin/Debug/net8.0/whatsapp-ripoff.runtimeconfig.json
+/home/void/coding/whatsapp-ripoff/bin/Debug/net8.0/whatsapp-ripoff.dll
+/home/void/coding/whatsapp-ripoff/bin/Debug/net8.0/whatsapp-ripoff.pdb
+/home/void/coding/whatsapp-ripoff/obj/Debug/net8.0/whatsapp-ripoff.GeneratedMSBuildEditorConfig.editorconfig
+/home/void/coding/whatsapp-ripoff/obj/Debug/net8.0/whatsapp-ripoff.AssemblyInfoInputs.cache
+/home/void/coding/whatsapp-ripoff/obj/Debug/net8.0/whatsapp-ripoff.AssemblyInfo.cs
+/home/void/coding/whatsapp-ripoff/obj/Debug/net8.0/whatsapp-ripoff.csproj.CoreCompileInputs.cache
+/home/void/coding/whatsapp-ripoff/obj/Debug/net8.0/whatsapp-ripoff.dll
+/home/void/coding/whatsapp-ripoff/obj/Debug/net8.0/refint/whatsapp-ripoff.dll
+/home/void/coding/whatsapp-ripoff/obj/Debug/net8.0/whatsapp-ripoff.pdb
+/home/void/coding/whatsapp-ripoff/obj/Debug/net8.0/whatsapp-ripoff.genruntimeconfig.cache
+/home/void/coding/whatsapp-ripoff/obj/Debug/net8.0/ref/whatsapp-ripoff.dll
